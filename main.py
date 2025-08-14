@@ -1,1 +1,2 @@
-print("hello fatima")
+def sum(x,y):
+    return x+y
