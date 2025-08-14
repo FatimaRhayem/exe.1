@@ -1,1 +1,2 @@
-print("hello fatima")
+def multiply(a,b):
+     return a*b
